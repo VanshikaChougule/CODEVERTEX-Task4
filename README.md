@@ -3,6 +3,7 @@
 **Domain:** python programming 
 **Duration:** September to October 2024
 
+
 ## Overview of the Project
 
 ### Project : This project is a Python-based implementation of the "Rock, Paper, Scissors" game where a player competes against the computer. The program includes user input for choices, random computer actions, and a score-tracking system to determine the winner of each round and track overall performance.
