@@ -6,7 +6,8 @@
 
 ## Overview of the Project
 
-### Project : This project is a Python-based implementation of the "Rock, Paper, Scissors" game where a player competes against the computer. The program includes user input for choices, random computer actions, and a score-tracking system to determine the winner of each round and track overall performance.
+### Project :
+This project is a Python-based implementation of the "Rock, Paper, Scissors" game where a player competes against the computer. The program includes user input for choices, random computer actions, and a score-tracking system to determine the winner of each round and track overall performance.
 
 ### Objective
 The objective of this project is to create an interactive "Rock, Paper, Scissors" game where the user can play multiple rounds against the computer. The program not only determines the winner of each round but also tracks the overall score for both the user and the computer, providing a more engaging and competitive experience.
