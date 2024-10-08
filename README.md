@@ -1,7 +1,7 @@
-**Name:** VANSHIKA CHOUGULE
-**Company:** CODEVERTEX IT SOLUTIONS
-**Domain:** python programming 
-**Duration:** September to October 2024
+- **Name:** VANSHIKA CHOUGULE
+- **Company:** CODEVERTEX IT SOLUTIONS
+- **Domain:** python programming 
+- **Duration:** September to October 2024
 
 
 ## Overview of the Project
