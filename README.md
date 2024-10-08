@@ -1,5 +1,5 @@
 **Name:** VANSHIKA CHOUGULE
-**Company:** CODEVERTEX Pvt Ltd
+**Company:** CODEVERTEX IT SOLUTIONS
 **Domain:** python programming 
 **Duration:** September to October 2024
 
