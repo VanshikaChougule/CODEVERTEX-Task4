@@ -11,7 +11,7 @@
 ### Objective
 The objective of this project is to create an interactive "Rock, Paper, Scissors" game where the user can play multiple rounds against the computer. The program not only determines the winner of each round but also tracks the overall score for both the user and the computer, providing a more engaging and competitive experience.
 
-###Key Activities
+### Key Activities
 - **User Input and Random Computer Selection:** The user inputs their choice (rock, paper, or scissors), while the computer randomly selects its action using the random.choice() function.
 - **Conditional Logic for Game Outcome:** The program uses if-elif-else statements to compare the user's choice with the computer's and determine the result of each round: win, lose, or tie.
 - **Score Tracking:** Variables user_score and computer_score are used to keep track of the number of rounds won by the player and the computer, respectively.
